@@ -1,4 +1,8 @@
 {
-  "bug1": "no save",
-  "bug2": "no change"
+"id": "PR1",
+  "summary": "код ошибки url 404",
+  "project": "onlineshop.com",
+  "severity": "blocker",
+  "priority": "ASAP",
+  "status": "open"
 }
